@@ -1,0 +1,41 @@
+/* The logo */
+.logo { 
+    background-color: #f2dc74;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f2dc74), color-stop(100%, #cfb74e));
+    background-image: -webkit-linear-gradient(top, #f2dc74, #cfb74e);
+    background-image:    -moz-linear-gradient(top, #f2dc74, #cfb74e);
+    background-image:     -ms-linear-gradient(top, #f2dc74, #cfb74e);
+    background-image:      -o-linear-gradient(top, #f2dc74, #cfb74e);
+    background-image:         linear-gradient(top, #f2dc74, #cfb74e);
+    -webkit-border-radius: 0.5em;
+       -moz-border-radius: 0.5em;
+            border-raidus: 0.5em;
+    -webkit-box-shadow: 0px 2px 5px #555;
+       -moz-box-shadow: 0px 2px 5px #555;
+            box-shadow: 0px 2px 5px #555;
+}
+
+.logo span {
+    color: #333;
+	font-family: arial, sans;
+    font-weight: bold;
+    text-shadow: 0px 1px 0px #EEE;
+    display: block;
+}
+
+.logo span.city { text-align: center; } 
+.logo span.js { text-align: right; }
+
+/* Sizes */
+
+._350x350 { width: 350px; height: 350px; }
+._350x350 .city { font-size: 70px; padding-top: 25px; }
+._350x350 .js { font-size: 200px; padding-right: 10px; padding-top: 35px; }
+
+._250x250 { width: 250px; height: 250px; }
+._250x250 .city { font-size: 50px; padding-top: 15px; }
+._250x250 .js { font-size: 150px; padding-right: 5px; padding-top: 25px; }
+
+._150x150 { width: 150px; height: 150px; }
+._150x150 .city { font-size: 30px; padding-top: 5px; }
+._150x150 .js { font-size: 90px; padding-right: 3px; padding-top: 20px; }
