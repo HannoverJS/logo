@@ -2,6 +2,7 @@
 
 ### A new fresher version of the official HannoverJS Logo made with pure CSS3 and HTML5!
 
+Want to see it action? Check it out <a href="http://hannoverjs.github.com/hannoverjs-logo">here</a>!
 Available sizes are:
 
 * 350x350
