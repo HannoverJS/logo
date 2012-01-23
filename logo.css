@@ -39,3 +39,10 @@
 ._150x150 { width: 150px; height: 150px; }
 ._150x150 .city { font-size: 30px; padding-top: 5px; }
 ._150x150 .js { font-size: 90px; padding-right: 3px; padding-top: 20px; }
+
+
+#wrap { margin-left: 200px; margin-top: 100px; width: 900px; }
+#wrap .logo { float: left; margin-right: 30px; margin-bottom: 100px; }
+#information { clear: both; font-family: arial; }
+#information h2 { color: #333; text-decoration: underline; }
+#information p a { color: #555; }
