@@ -10,4 +10,4 @@ Available sizes are:
 
 Feel free to add more! You can submit a pull request <a href="https://github.com/HannoverJS/hannoverjs-logo/pull/new/master">here</a>!
 
-Made in love for the community by @PascalPrecht
+Made in love for the community by <a href="https://github.com/PascalPrecht">@PascalPrecht</a>
