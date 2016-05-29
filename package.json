@@ -1,0 +1,19 @@
+{
+  "name": "hannoverjs-logo",
+  "version": "1.0.0",
+  "description": "### A new fresher version of the official HannoverJS Logo made with pure CSS3 and HTML5!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannoverjs/hannoverjs-logo.git"
+  },
+  "author": "HannoverJS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hannoverjs/hannoverjs-logo/issues"
+  },
+  "homepage": "https://github.com/hannoverjs/hannoverjs-logo#readme"
+}
